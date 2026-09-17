@@ -1,5 +1,3 @@
-# Caio Matias
-
 > A designer's eye. An engineer's mind.
 
 I'm a Senior Software Engineer in São Paulo, Brazil. I build expressive websites and dependable products—from the first interaction to the code underneath.
