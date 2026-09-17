@@ -1,16 +1,32 @@
-## Hi there 👋
+# Caio Matias
 
-<!--
-**CaioMatias/caiomatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A designer's eye. An engineer's mind.
 
-Here are some ideas to get you started:
+I'm a Senior Software Engineer in São Paulo, Brazil. I build expressive websites and dependable products—from the first interaction to the code underneath.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently at **Dscout**, helping shape AI-native research tools through product engineering, agentic development workflows, and fraud prevention.
+
+## Current focus
+
+- Building trusted AI tools for better research decisions
+- Making AI adoption practical, reliable, and useful in real products
+- Designing resilient web experiences with TypeScript, React, and Next.js
+
+## Selected work
+
+- [Dscout](https://caiomatias.world/work/dscout) — Building trusted AI tools for better research decisions.
+- [SteelWave](https://caiomatias.world/work/steelwave) — A digital presence for the next wave of commercial real estate.
+- [MindHunter](https://caiomatias.world/work/mindhunter) — Launching the world's most cryptic press kit.
+- [Kid in a Korner](https://caiomatias.world/work/kid-in-a-korner) — A website for a new kind of music company.
+
+## A little more about me
+
+I've been making things for the web since 2007. My path has taken me from graphic design and interactive advertising to product engineering and technical leadership. I care about the balance between creative ambition, performance, accessibility, and the people using what we build.
+
+## Find me
+
+- [Portfolio](https://caiomatias.world)
+- [LinkedIn](https://www.linkedin.com/in/caiomatias/)
+- [Email](mailto:caiobellomatias@gmail.com)
+
+_Let's make something that matters._
