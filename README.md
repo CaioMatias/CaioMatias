@@ -14,10 +14,10 @@ Currently at **Dscout**, helping shape AI-native research tools through product 
 
 ## Selected work
 
-- [Dscout](https://caiomatias.world/work/dscout) — Building trusted AI tools for better research decisions.
-- [SteelWave](https://caiomatias.world/work/steelwave) — A digital presence for the next wave of commercial real estate.
-- [MindHunter](https://caiomatias.world/work/mindhunter) — Launching the world's most cryptic press kit.
-- [Kid in a Korner](https://caiomatias.world/work/kid-in-a-korner) — A website for a new kind of music company.
+- [Dscout](https://caiomatias-world.vercel.app/work/dscout) — Building trusted AI tools for better research decisions.
+- [SteelWave](https://caiomatias-world.vercel.app/work/steelwave) — A digital presence for the next wave of commercial real estate.
+- [MindHunter](https://caiomatias-world.vercel.app/work/mindhunter) — Launching the world's most cryptic press kit.
+- [Kid in a Korner](https://caiomatias-world.vercel.app/work/kid-in-a-korner) — A website for a new kind of music company.
 
 ## A little more about me
 
@@ -25,7 +25,7 @@ I've been making things for the web since 2007. My path has taken me from graphi
 
 ## Find me
 
-- [Portfolio](https://caiomatias.world)
+- [Portfolio](https://caiomatias-world.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/caiomatias/)
 - [Email](mailto:caiobellomatias@gmail.com)
 
